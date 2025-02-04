@@ -9,6 +9,6 @@ namespace DVDRental
 {
     class DBConnect
     {
-        public const String oradb = "Data Source = studentoracle:1521/orcl; User Id = t00223773; Password = 6jaeP!v36i9u;";
+        public const String oradb = "Data Source = localhost:1521/orcl; User Id = C##User1; Password = 0000;";
     }
 }
